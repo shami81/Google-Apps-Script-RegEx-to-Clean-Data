@@ -161,3 +161,52 @@ function CleanUp_Data() {
 }  
 /**=================================================================================================== */ 
 ```
+# 📋 Function Overview
+
+This function performs the following tasks:
+
+1. **Retrieves data from the `Data` sheet.**
+2. **Cleans and formats the data using RegEx.**
+3. **Writes the cleaned data to the `Output` sheet.**
+
+---
+
+## 📋 Requirements
+
+- Google Sheets document with a `Data` sheet containing the raw data.
+- An `Output` sheet where the cleaned data will be written.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+
+1. **Fork the repository.**
+2. **Create a new branch** (`git checkout -b feature/YourFeatureName`).
+3. **Commit your changes** (`git commit -m 'Add some feature'`).
+4. **Push to the branch** (`git push origin feature/YourFeatureName`).
+5. **Open a pull request.**
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 👨‍💻 Author
+
+- **Ehtisham Safdar**
+
+---
+
+## 🙏 Acknowledgments
+
+- Thanks to **Google** for providing Google Apps Script.
+- Thanks to the **open-source community** for providing valuable resources and tools.
+
+---
+
+For more information, please visit the [GitHub repository](https://github.com/yourusername/your-repo-name).
